@@ -45,7 +45,7 @@ To get started with this project, clone the repository and install dependencies:
 git clone https://github.com/HigaHamodi/fit.git
 cd fit
 npm install
-
+```
 
 
 <span style="color:blue">FitWell Academy Frontend</span>
