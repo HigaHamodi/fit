@@ -15,7 +15,7 @@ This API serves as a robust backend for fitness and wellness applications, facil
 
 - **User Management**: User registration, login, and management.
 - **Course Management**: Create and manage courses.
-- **Admin Management Dashboard**: Users , Instructors, Orders management.
+- **Admin Management Dashboard**: Users, Instructors, Orders management.
 
 ## Technologies
 
@@ -29,7 +29,6 @@ This API serves as a robust backend for fitness and wellness applications, facil
 - **Helmet**: Security middleware.
 - **Cors**: Cross-Origin Resource Sharing.
 
-
 ### <span style="color:red">API Endpoints and Postman Integration</span>
 
 **This project includes a Postman collection that describes the available API routes. You can import this collection into Postman to explore and test the API endpoints easily.**
@@ -38,7 +37,6 @@ This API serves as a robust backend for fitness and wellness applications, facil
 
 **Adding the collection to Postman:** After the import is complete, you will see a new collection in your Postman sidebar.
 
-
 ## Getting Started
 
 To get started with this project, clone the repository and install dependencies:
@@ -46,20 +44,6 @@ To get started with this project, clone the repository and install dependencies:
 ```bash
 git clone https://github.com/HigaHamodi/fit.git
 cd fit
-
-Backend
-Navigate to the backend directory and install the required dependencies:
-
-bash
-Copy code
-cd backend
-npm install
-For development purposes, you can use:
-
-bash
-Copy code
-npm run dev
-
 # <span style="color:blue">FitWell Academy Frontend</span>
 
 ## Project Overview
@@ -100,10 +84,3 @@ To get started with this project, clone the repository and install dependencies:
 git clone https://github.com/HigaHamodi/fit.git
 cd fit/frontend
 npm install
-
-To start the frontend development server, run:
-
-bash
-Copy code
-npm run dev
-The frontend server will run on http://localhost:5173.
