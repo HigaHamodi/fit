@@ -48,11 +48,11 @@ npm install
 ```
 
 
-<span style="color:blue">FitWell Academy Frontend</span>
+# <span style="color:blue">FitWell Academy Frontend</span>
 Project Overview
 The frontend of FitWell Academy is a modern web application built using React, MUI (Material-UI) for the user interface components, and Vite as the build tool for a fast and efficient development experience. This application is designed to offer fitness and wellness courses, providing users with an intuitive and engaging interface to manage their health and fitness journey.
 
-<span style="color:green">Key Features</span>
+# <span style="color:green">Key Features</span>
 User Management: User registration, login, and profile management.
 Course Management: View, search, and enroll in various fitness and wellness courses.
 Responsive Design: Optimized for both desktop and mobile devices.
@@ -60,7 +60,7 @@ Technologies
 React: A JavaScript library for building user interfaces.
 MUI (Material-UI): React components for faster and easier web development.
 Vite: A build tool that provides a faster and leaner development experience for modern web projects.
-<span style="color:orange">Bonus Features</span>
+# <span style="color:orange">Bonus Features</span>
 Dark Mode: Toggle between light and dark themes.
 Notification System: Real-time notifications for various user actions.
 Form Validation: Robust form validation using React Hook Form and Yup.
@@ -73,14 +73,13 @@ Adding the collection to Postman: After the import is complete, you will see a n
 
 Getting Started
 To get started with this project, clone the repository and install dependencies:
-
-bash
+```bash
 Copy code
 git clone https://github.com/HigaHamodi/fit.git
 cd fit/frontend
 npm install
 Copy code
-
+```
 
 
 
