@@ -45,6 +45,9 @@ To get started with this project, clone the repository and install dependencies:
 git clone https://github.com/HigaHamodi/fit.git
 cd fit
 npm install
+
+
+
 <span style="color:blue">FitWell Academy Frontend</span>
 Project Overview
 The frontend of FitWell Academy is a modern web application built using React, MUI (Material-UI) for the user interface components, and Vite as the build tool for a fast and efficient development experience. This application is designed to offer fitness and wellness courses, providing users with an intuitive and engaging interface to manage their health and fitness journey.
